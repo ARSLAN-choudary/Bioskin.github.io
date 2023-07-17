@@ -1,0 +1,43 @@
+/* body{
+  
+} */
+.bgimg{
+  background-image: url(./images/AF-banner-Web-HD-Compo12-20-20-20.png);
+  background-size: cover;
+  max-height: 500px;
+  min-height:500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin-left: -20px;
+}
+.hi{
+  color: aqua;
+}
+.imgcol{
+  /* margin-left: 15px; */
+  padding-right: 0%;
+}
+.dirimg{
+  width: 950px;
+}
+.scndimg{
+  width: 950px;
+}
+.acndcol{
+ padding-right: 0px;
+  padding-left: 0px;
+}
+a{
+  text-decoration: none;
+}
+.carda1:hover{
+  box-shadow: 2px 2px 20px 2px gray;
+  color: aqua;
+  transition: .5s;
+}
+.nav-link:hover{
+  translate:5px ;
+  text-decoration: underline;
+  bottom: 10px;
+  text-underline-offset: 10px;
+}
